@@ -3,7 +3,7 @@ spring:
     name: admin-goods-service
   datasource:
     druid:
-      url:  jdbc:mysql://120.26.176.128:3306/social_commerce?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&allowPublicKeyRetrieval=true&verifyServerCertificate=false&useSSL=false
+      url:  jdbc:mysql://120.26.176.128:3306/sc?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&allowPublicKeyRetrieval=true&verifyServerCertificate=false&useSSL=false
       driver-class-name:  com.mysql.cj.jdbc.Driver
       username:  sc12345
       password:  sc12345
